@@ -1,0 +1,18 @@
+sender,subject,links,attachment,urgent_words,status
+security-update@paypaI.com,Reset Password,http://fake-login.com,yes,yes,suspicious
+hr@company.com,Meeting Reminder,no,no,no,safe
+support@amaz0n.com,Account Verification,http://secure-amazon-login.net,yes,yes,suspicious
+admin@bankofamerica.co,Security Alert,http://boa-update.com,no,yes,suspicious
+it@google-support.org,Email Update Required,http://gmail-fix.org,yes,no,suspicious
+billing@netfl1x.com,Payment Issue,http://netflix-bill.com,no,yes,suspicious
+alert@apple-id.com,Apple ID Locked,http://appleid-recovery.com,yes,yes,suspicious
+service@microsoft-outlook.net,Inbox Full,http://outlook-cleanup.net,no,no,suspicious
+update@facebook-security.com,Profile Suspended,http://fb-verify.com,yes,yes,suspicious
+info@paypal-security.org,Transaction Alert,http://paypal-confirm.net,no,yes,suspicious
+help@linkedin-support.co,Connection Request,http://linkedin-update.org,yes,no,suspicious
+notify@irs-gov.us,Tax Refund Pending,http://irs-refund.com,no,yes,suspicious
+team@company.com,Project Update,no,no,no,safe
+manager@office.com,Weekly Report,no,no,no,safe
+newsletter@news.com,Daily Digest,no,no,no,safe
+friend@personal.com,Birthday Reminder,no,no,no,safe
+support@vendor.com,Order Confirmation,no,no,no,safe
