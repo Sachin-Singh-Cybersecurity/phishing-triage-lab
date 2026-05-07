@@ -1,4 +1,4 @@
-# Investigation Notes DAY 1
+# Investigation Notes
 
 ## Suspicious Indicators
 - Misspelled domains
@@ -8,8 +8,6 @@
 
 ## Analyst Goal
 Identify potentially malicious emails before users interact with them.
-
-# Investigation Notes DAY 2
 
 ## Suspicious Indicators Identified
 
@@ -101,3 +99,32 @@ Further improvements can include:
 - URL reputation checks
 - attachment hashing
 - sender reputation analysis
+
+## Threat Pattern Analysis
+
+Repeated phishing characteristics identified:
+- impersonated domains
+- urgency-driven language
+- suspicious attachments
+
+Most frequent attack method:
+Domain impersonation combined with password reset requests.
+
+---
+
+## Escalation Logic
+
+Emails with multiple phishing indicators were automatically escalated for further investigation.
+
+Escalation Conditions:
+- suspicious domain
+- urgent language
+- attachment presence
+
+---
+
+## Operational Observations
+
+High-risk emails consistently combined multiple social engineering techniques.
+
+This suggests attackers attempt to increase success rates through urgency and trust impersonation simultaneously.

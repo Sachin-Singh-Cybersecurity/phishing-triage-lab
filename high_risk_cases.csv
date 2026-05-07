@@ -1,0 +1,2 @@
+sender,subject,links,attachment,urgent_words,status,suspicious_domain,has_urgent_language,has_attachment,risk_score,risk_level,escalate
+security-update@paypaI.com,Reset Password,http://fake-login.com,yes,yes,suspicious,True,True,True,4,high,True
