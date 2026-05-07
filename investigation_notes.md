@@ -128,3 +128,42 @@ Escalation Conditions:
 High-risk emails consistently combined multiple social engineering techniques.
 
 This suggests attackers attempt to increase success rates through urgency and trust impersonation simultaneously.
+
+## URL Analysis Findings
+
+Multiple suspicious URLs contained phishing-related keywords such as:
+- login
+- verify
+- secure
+- update
+- reset
+
+Observation:
+Credential-themed URLs significantly increase phishing likelihood.
+
+---
+
+## Sender Reputation Analysis
+
+Several sender domains were classified as malicious due to impersonation patterns and suspicious naming conventions.
+
+Examples:
+- paypai.com
+- micros0ft-help.com
+- arnazon-security.net
+
+Observation:
+Domain impersonation remains one of the strongest phishing indicators identified during investigation.
+
+---
+
+## Enhanced Threat Detection
+
+Enhanced scoring logic improved prioritization accuracy by combining:
+- domain analysis
+- URL analysis
+- sender reputation
+- attachments
+- urgency indicators
+
+Critical severity emails demonstrated multiple simultaneous phishing behaviors.
